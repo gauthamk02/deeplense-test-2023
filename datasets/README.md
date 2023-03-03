@@ -1,0 +1,2 @@
+The datasets are not uploaded to the repository due to their size. They can be downloaded from the following links and added to the `datasets` folder:
+1. Common test: [https://drive.google.com/file/d/1B_UZtU4W65ZViTJsLeFfvK-xXCYUhw2A/view](https://drive.google.com/file/d/1B_UZtU4W65ZViTJsLeFfvK-xXCYUhw2A/view)
