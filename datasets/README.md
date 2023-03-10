@@ -1,2 +1,4 @@
-The datasets are not uploaded to the repository due to their size. They can be downloaded from the following links and added to the `datasets` folder:
+The datasets are not uploaded to the repository due to their size. They can be downloaded from the following links and added to this folder:
 1. Common test: [https://drive.google.com/file/d/1B_UZtU4W65ZViTJsLeFfvK-xXCYUhw2A/view](https://drive.google.com/file/d/1B_UZtU4W65ZViTJsLeFfvK-xXCYUhw2A/view)
+2. Test 2: [https://drive.google.com/file/d/1eXmbZqUfpqhI-MWz2xkpK0dXQ4FttGQf/view?usp=sharing](https://drive.google.com/file/d/1eXmbZqUfpqhI-MWz2xkpK0dXQ4FttGQf/view?usp=sharing)
+3. Test 4: [https://drive.google.com/file/d/16Y1taQoTeUTP5rGpB0tuPZ_S30acvnqr/view?usp=sharing](https://drive.google.com/file/d/16Y1taQoTeUTP5rGpB0tuPZ_S30acvnqr/view?usp=sharing)
